@@ -1,0 +1,20 @@
+Repeatedly plays a unique warning sound for as long as there is at least one incoming missile.
+Missiles not targeting the player are ignored.
+Since I think this is how the core should behave intead of playing a lone ambiguous "woop woop" sound,
+this is not an equipment that would need to be bought and that might be damaged.
+Designed especially against thargoid Kamikaze Orbiters (from TCAT) which appear like relatively harmless thargons,
+and maybe other unusual types of missiles, so the player at least knows there is immediate danger.
+
+
+Instructions:
+
+Do not unzip the .oxz file, just move into the AddOns folder of your Oolite installation.
+
+License:
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike License version 4.0, except for the sound file,
+which is taken from http://soundbible.com/1501-Buzzer.html, slightly shortened and licensed under Sampling Plus 1.0.
+
+
+Changelog:
+ 2014.08.11. v0.1  First release.
