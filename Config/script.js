@@ -98,7 +98,7 @@ this._checkAndPlay = function()
 	{
 		if(!_isIncomingMissile(entities[i]))
 			continue
-		//log(this.name, "found incoming missile: " + entities[i])
+		log(this.name, "found incoming missile: " + entities[i])
 		$missile_inbound.play()
 		return
 	}
