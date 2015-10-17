@@ -3,7 +3,7 @@
 	"required_oolite_version" = "1.82";
 	"title" = "Missile Warning";
 	"version" = "0.1";
-	"category" = "";
+	"category" = "Mechanics";
 	"description" = "Repeatedly play a unique warning sound for as long as there is at least one incoming missile.";
 	"author" = "Anonymissimus";
 	"information_url" = "hhttp://aegidian.org/bb/viewtopic.php?f=4&t=17813";
